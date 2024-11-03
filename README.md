@@ -6,6 +6,7 @@ A simple, intuitive Todo application built with React and TypeScript. This app a
 ## Features
 
 - **Add, delete, and mark tasks as complete**: Manage your daily tasks easily.
+- **Update tasks**: Edit tasks after adding them to keep your list accurate and up to date.
 - **Disabled action buttons for completed tasks**: Action buttons are automatically disabled once a task is marked complete to prevent accidental modifications.
 - **Custom styling**: Unique styling for a better user experience.
 
