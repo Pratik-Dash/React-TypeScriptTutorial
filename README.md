@@ -48,7 +48,7 @@ A simple, intuitive Todo application built with React and TypeScript. This app a
 
 ## Credits
 
-This project was initially inspired by the [FreeCodeCamp tutorial on YouTube](https://www.youtube.com/), with additional modifications for improved functionality and style.
+This project was initially inspired by a FreeCodeCamp tutorial on YouTube, with additional modifications for improved functionality and style.
 
 ## Screenshots
 
